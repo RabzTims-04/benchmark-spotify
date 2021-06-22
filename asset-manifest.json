@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/benchmark-spotify/static/css/main.b2feea36.chunk.css",
+    "main.js": "/benchmark-spotify/static/js/main.8e78ded9.chunk.js",
+    "main.js.map": "/benchmark-spotify/static/js/main.8e78ded9.chunk.js.map",
+    "runtime-main.js": "/benchmark-spotify/static/js/runtime-main.2af38746.js",
+    "runtime-main.js.map": "/benchmark-spotify/static/js/runtime-main.2af38746.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/benchmark-spotify/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.7b5b276e.chunk.js": "/benchmark-spotify/static/js/2.7b5b276e.chunk.js",
+    "static/js/2.7b5b276e.chunk.js.map": "/benchmark-spotify/static/js/2.7b5b276e.chunk.js.map",
+    "static/js/3.37a1a5f5.chunk.js": "/benchmark-spotify/static/js/3.37a1a5f5.chunk.js",
+    "static/js/3.37a1a5f5.chunk.js.map": "/benchmark-spotify/static/js/3.37a1a5f5.chunk.js.map",
+    "index.html": "/benchmark-spotify/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/benchmark-spotify/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.b2feea36.chunk.css.map": "/benchmark-spotify/static/css/main.b2feea36.chunk.css.map",
+    "static/js/2.7b5b276e.chunk.js.LICENSE.txt": "/benchmark-spotify/static/js/2.7b5b276e.chunk.js.LICENSE.txt",
+    "static/media/crop_spotify_black.48f5e24a.png": "/benchmark-spotify/static/media/crop_spotify_black.48f5e24a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2af38746.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.7b5b276e.chunk.js",
+    "static/css/main.b2feea36.chunk.css",
+    "static/js/main.8e78ded9.chunk.js"
+  ]
+}
